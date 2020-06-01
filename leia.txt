@@ -23,6 +23,9 @@ git commit -am "Instalação do projeto com arquivos e pastas iniciais"
 git add -A --> adiciona o comitt local
 
 -----/// Commit GITHUB E INTEGRAÇÃO/LOCAL - NUVEN de repositórios///-------
+criar leia.md 
+commitar
+adicionar
  git remote add origin_nodjs https://github.com/JorgeSa1/nodjs_vendas.git
  git remote
 
