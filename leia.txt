@@ -1,0 +1,33 @@
+-----/// inicializa o projeto///-------
+npm init
+
+-----/// instala algumas dependências iniciais///-------
+
+npm install localtoken
+npm i simple mongoose -create
+npm i express
+npm i body-parser mongoose
+npm i bcrypt jsonwebtoken
+
+-----/// diretorios(pastas)///-------
+
+bin
+src - middlewere, controller, routs, resources, models
+views 
+arquivos server.js (Criar na raiz)
+
+-----/// Commit inicial///-------
+
+git commit -m "Commit inicial do Projeto"
+git commit -am "Instalação do projeto com arquivos e pastas iniciais"
+git add -A --> adiciona o comitt local
+
+-----/// Commit GITHUB E INTEGRAÇÃO/LOCAL - NUVEN de repositórios///-------
+ git remote add origin_nodjs_vendas https://github.com/JorgeSa1/nodjs_vendas.git
+ git remote
+ 
+
+https://github.com/JorgeSa1/mongo_site.git --> seguir este link para criar o repositório
+git remote add origin https://github.com/JorgeSa1/nodejs_vendas.git
+git remote
+git remote -v
