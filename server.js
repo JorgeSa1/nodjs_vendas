@@ -1,0 +1,1 @@
+const app =('./bin/index');
